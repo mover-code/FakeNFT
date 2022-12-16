@@ -83,8 +83,6 @@ json 示例
         Input your NFT Amount. (default 10)
   -collection string
         Input your collection name. (default "Demo-Collection")
-  -flagname int
-        help message for flagname (default 1234)
   -layer string
         Input your layer path. (default "demo")
   -out string
